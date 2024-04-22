@@ -1,4 +1,7 @@
 
-0
-java:S1220""Move this file to a named package.
-E	java:S106"+Replace this use of System.out by a logger.(‚ŞÏ¥ıÿÿÿÿ
+
+java:S1854"9Remove this useless assignment to local variable "board".(ñòÅÜøÿÿÿÿ8ª†Ä©ğ1J$19a2a667-1901-4451-ac43-d4c5f6fc9cee
+r
+java:S1481"*Remove this unused "board" local variable.(ñòÅÜøÿÿÿÿ8®†Ä©ğ1J$02bc77c9-c0bd-4ff8-82f2-c799159f502d
+m	java:S106"+Replace this use of System.out by a logger.(Ç´·œ8¯†Ä©ğ1J$451306a6-58c0-4b7d-a0f9-d2b9af241704
+r	java:S106"+Replace this use of System.out by a logger.(Şöó úÿÿÿÿ8°†Ä©ğ1J$69175136-622d-4524-bbf5-2c6e54f2f83e
